@@ -1,4 +1,4 @@
-## Forif Assignment
+## Forif Python Class Assignment
 
 #### Members
 * KimDongHyun (T)
